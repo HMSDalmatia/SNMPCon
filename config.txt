@@ -1,0 +1,4 @@
+# Enter here network address (example below)
+192.168.1.0
+# Enter here mask (examople below)
+255.255.255.0
