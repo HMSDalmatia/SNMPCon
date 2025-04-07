@@ -2,3 +2,6 @@
 192.168.1.0
 # Enter here mask (examople below)
 255.255.255.0
+# Enter here exceptions (examples below)
+192.168.1.1
+192.168.1.254
